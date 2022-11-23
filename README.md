@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was clone coding from [React Admin Panel Tutorial | React Admin Dashboard Template Design](https://youtu.be/yKV1IGahXqA)
+
+### Original Source
+
+https://github.com/safak/youtube2022/tree/react-admin
 
 ## Available Scripts
 
@@ -68,7 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-```
-yarn add sass react-router-dom
-```
